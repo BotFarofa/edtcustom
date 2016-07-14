@@ -318,3 +318,8 @@
 body {
     background-size: 100% auto !important background-attachment: fixed 0px 0px !important
 }
+
+/* cabeçalho alternativo */
+.app-header {
+    background: rgba(28, 31, 37, 0.59); !important;
+}
